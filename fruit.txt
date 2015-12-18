@@ -1,3 +1,5 @@
 apple
+guava
 pear
+pineapple
 tomato
