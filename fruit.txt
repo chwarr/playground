@@ -6,3 +6,4 @@ pear
 pineapple
 strawberry
 tomato
+zuchinni
