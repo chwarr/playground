@@ -2,6 +2,7 @@ apple
 blackberry
 blackcurrant
 guava
+peach
 pear
 pineapple
 strawberry
