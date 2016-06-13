@@ -1,8 +1,10 @@
 apple
 blackberry
 blackcurrant
+crookneck squash
 guava
 pear
 pineapple
 strawberry
 tomato
+zucchini
