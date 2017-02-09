@@ -4,6 +4,7 @@ blackberry
 blackcurrant
 crookneck squash
 guava
+orange
 peach
 pear
 pineapple
