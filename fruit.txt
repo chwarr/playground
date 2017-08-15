@@ -5,6 +5,7 @@ blackcurrant
 crookneck squash
 guava
 orange
+raspberry
 strawberry
 tomato
 zucchini
