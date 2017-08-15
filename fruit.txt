@@ -2,10 +2,7 @@ apple
 banana
 blackberry
 blackcurrant
-crookneck squash
 guava
 orange
 raspberry
 strawberry
-tomato
-zucchini
