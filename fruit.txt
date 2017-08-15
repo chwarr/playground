@@ -1,13 +1,13 @@
-apple
-banana
-blackberry
-blackcurrant
-crookneck squash
-guava
-orange
-peach
-pear
-pineapple
-strawberry
-tomato
-zucchini
+APPLE
+BANANA
+BLACKBERRY
+BLACKCURRANT
+CROOKNECK SQUASH
+GUAVA
+ORANGE
+PEACH
+PEAR
+PINEAPPLE
+STRAWBERRY
+TOMATO
+ZUCCHINI
